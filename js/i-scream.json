@@ -22,13 +22,13 @@
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
         "image": "https://agnelaugustine.github.io/24W-JavaScript-Lab04/images/strawberry-sprinkle.svg"
     }, {
-        "name": "Strawberry Spr",
+        "name": "watermelon",
         "calories": 300,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
         "image": "https://agnelaugustine.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra1.svg"
     }, {
-        "name": "Strawberry Spr",
+        "name": "Butterscotch",
         "calories": 300,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
